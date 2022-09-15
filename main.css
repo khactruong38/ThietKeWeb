@@ -1,0 +1,16 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.margin {
+    text-align: justify;
+}
+.container  {
+    text-align: center;
+    width: 1000px;
+    margin:0 20%;
+
+
+}
+.width {
+    width: 100%;
+}
